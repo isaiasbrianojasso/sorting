@@ -51,8 +51,9 @@ public class Main {
 
         };
 
-        // Ordenar los alumnos por lastName y firstName
-        // Ordenar por mes de nacimiento y por clave
+        // Ordenar los alumnos por lastName y firstName e imprimir
+
+        // Ordenar por mes de nacimiento y por clave e imprimir
     }
 
     private static void sort(Object[] datos, Comparator comparator) {
